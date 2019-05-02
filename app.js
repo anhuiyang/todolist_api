@@ -33,4 +33,4 @@ app.delete('/:_id', (req, res)=>{
     })
 })
 
-app.listen(1234, ()=>{console.log('app is live on port 1234')})
+app.listen(80, ()=>{console.log('app is live on port 80')})

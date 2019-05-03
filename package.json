@@ -5,9 +5,9 @@
   "engines": {
     "node": "10.15.3"
   },
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "test": "jest"
   },
   "keywords": [],
